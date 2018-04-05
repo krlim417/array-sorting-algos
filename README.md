@@ -4,7 +4,7 @@ This repository contains JavaScript reimplementations of array sorting algorithm
 
 
 ## Array Sorting Algorithms
-- [ ] Bubble Sort
+- [x] Bubble Sort
 - [ ] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
